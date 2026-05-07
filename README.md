@@ -9,7 +9,7 @@
   <img align="right" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgwMDMzNzcsIm5iZiI6MTc3ODAwMzA3NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA1VDE3NDQzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczNDFmMTNiOTA4NzJjZTIzY2UxMGVlMDk2M2RhY2UwNTVkNmU0YmUyNTQwOTgyMWIzYTdjYTdjY2U0MTZkMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.Fzy3PgbEzX6uMVOFLwEMOabfX5Z72gyvSAXfpaZcE94" width="300"/>
 
 ### 🚀 About Me
-- 🎓 B.Tech CSE Student (Batch 2028)  
+- 🎓 B.Tech CSE'28 Student  
 - 🤖 Exploring AI/ML & Generative AI  
 - 🧠 Learning LLMs, RAG & Agentic AI  
 - 🔬 Working with PyTorch & Scikit-learn  
