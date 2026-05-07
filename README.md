@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Sakshi-1962" target="_blank">
+  <a href="https://github.com/Sakshi-2565" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
 </p>
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <i>Trying to turn data into insights and ideas into intelligent systems.</i>
+  <i>Trying to turn data into insights and ideas into actions.</i>
 </p>
